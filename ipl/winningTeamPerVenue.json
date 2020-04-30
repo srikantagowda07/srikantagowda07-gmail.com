@@ -1,0 +1,317 @@
+{
+  "winningTeamPerVenue": {
+    "Rajiv Gandhi International Stadium, Uppal": {
+      "Sunrisers Hyderabad": 24,
+      "Rising Pune Supergiant": 1,
+      "Mumbai Indians": 5,
+      "Delhi Daredevils": 4,
+      "Rajasthan Royals": 2,
+      "Kings XI Punjab": 4,
+      "Royal Challengers Bangalore": 2,
+      "Kolkata Knight Riders": 5,
+      "Chennai Super Kings": 3,
+      "Deccan Chargers": 3,
+      "Pune Warriors": 1,
+      "Rising Pune Supergiants": 1
+    },
+    "Maharashtra Cricket Association Stadium": {
+      "Delhi Daredevils": 2,
+      "Rising Pune Supergiant": 4,
+      "Kolkata Knight Riders": 3,
+      "Rajasthan Royals": 1,
+      "Royal Challengers Bangalore": 2,
+      "Gujarat Lions": 1,
+      "Mumbai Indians": 2,
+      "Chennai Super Kings": 5
+    },
+    "Saurashtra Cricket Association Stadium": {
+      "Gujarat Lions": 3,
+      "Royal Challengers Bangalore": 1,
+      "Kings XI Punjab": 2,
+      "Mumbai Indians": 1,
+      "Sunrisers Hyderabad": 1,
+      "Delhi Daredevils": 1
+    },
+    "Holkar Cricket Stadium": {
+      "Kings XI Punjab": 3,
+      "Mumbai Indians": 2,
+      "Kochi Tuskers Kerala": 1,
+      "Kolkata Knight Riders": 1,
+      "Royal Challengers Bangalore": 1
+    },
+    "M Chinnaswamy Stadium": {
+      "Mumbai Indians": 8,
+      "Rising Pune Supergiant": 1,
+      "Gujarat Lions": 1,
+      "Kings XI Punjab": 5,
+      "Kolkata Knight Riders": 7,
+      "Rajasthan Royals": 4,
+      "Chennai Super Kings": 5,
+      "Delhi Daredevils": 3,
+      "Royal Challengers Bangalore": 33,
+      "Deccan Chargers": 1,
+      "Sunrisers Hyderabad": 2,
+      "": 2
+    },
+    "Wankhede Stadium": {
+      "Mumbai Indians": 41,
+      "Rising Pune Supergiant": 2,
+      "Kings XI Punjab": 5,
+      "Royal Challengers Bangalore": 3,
+      "Rajasthan Royals": 4,
+      "Chennai Super Kings": 7,
+      "Kochi Tuskers Kerala": 1,
+      "Deccan Chargers": 1,
+      "Pune Warriors": 1,
+      "Delhi Daredevils": 2,
+      "Kolkata Knight Riders": 1,
+      "Rising Pune Supergiants": 1,
+      "Gujarat Lions": 1,
+      "Sunrisers Hyderabad": 1,
+      "Delhi Capitals": 1
+    },
+    "Eden Gardens": {
+      "Kolkata Knight Riders": 44,
+      "Gujarat Lions": 2,
+      "Rising Pune Supergiant": 1,
+      "Mumbai Indians": 10,
+      "Chennai Super Kings": 5,
+      "Rajasthan Royals": 2,
+      "Kings XI Punjab": 3,
+      "Kochi Tuskers Kerala": 1,
+      "Royal Challengers Bangalore": 4,
+      "Delhi Daredevils": 1,
+      "Sunrisers Hyderabad": 2,
+      "Delhi Capitals": 1
+    },
+    "Feroz Shah Kotla": {
+      "Kolkata Knight Riders": 5,
+      "Delhi Daredevils": 26,
+      "Mumbai Indians": 3,
+      "Royal Challengers Bangalore": 6,
+      "Chennai Super Kings": 5,
+      "Kings XI Punjab": 5,
+      "Deccan Chargers": 2,
+      "Kochi Tuskers Kerala": 1,
+      "": 1,
+      "Pune Warriors": 1,
+      "Rajasthan Royals": 4,
+      "Sunrisers Hyderabad": 5,
+      "Gujarat Lions": 1,
+      "Rising Pune Supergiants": 1
+    },
+    "Punjab Cricket Association IS Bindra Stadium, Mohali": {
+      "Kings XI Punjab": 7,
+      "Gujarat Lions": 2,
+      "Kolkata Knight Riders": 1,
+      "Mumbai Indians": 1,
+      "Royal Challengers Bangalore": 1,
+      "Sunrisers Hyderabad": 1
+    },
+    "Green Park": {
+      "Sunrisers Hyderabad": 1,
+      "Gujarat Lions": 2
+    },
+    "Punjab Cricket Association Stadium, Mohali": {
+      "Kings XI Punjab": 18,
+      "Delhi Daredevils": 1,
+      "Rajasthan Royals": 3,
+      "Kolkata Knight Riders": 2,
+      "Royal Challengers Bangalore": 2,
+      "Pune Warriors": 1,
+      "Mumbai Indians": 3,
+      "Chennai Super Kings": 2,
+      "Sunrisers Hyderabad": 2
+    },
+    "Sawai Mansingh Stadium": {
+      "Rajasthan Royals": 31,
+      "Mumbai Indians": 2,
+      "Royal Challengers Bangalore": 3,
+      "Kolkata Knight Riders": 3,
+      "Chennai Super Kings": 3,
+      "Delhi Daredevils": 1,
+      "Sunrisers Hyderabad": 1,
+      "Kings XI Punjab": 1,
+      "Delhi Capitals": 1
+    },
+    "MA Chidambaram Stadium, Chepauk": {
+      "Chennai Super Kings": 33,
+      "Delhi Daredevils": 2,
+      "Deccan Chargers": 2,
+      "Royal Challengers Bangalore": 2,
+      "Rajasthan Royals": 1,
+      "Kings XI Punjab": 2,
+      "Mumbai Indians": 3,
+      "Kolkata Knight Riders": 2,
+      "Pune Warriors": 1
+    },
+    "Dr DY Patil Sports Academy": {
+      "Mumbai Indians": 5,
+      "Rajasthan Royals": 1,
+      "Kolkata Knight Riders": 2,
+      "Chennai Super Kings": 3,
+      "Royal Challengers Bangalore": 1,
+      "Pune Warriors": 2,
+      "Delhi Daredevils": 1,
+      "Deccan Chargers": 1
+    },
+    "Newlands": {
+      "Royal Challengers Bangalore": 1,
+      "Delhi Daredevils": 1,
+      "Deccan Chargers": 2,
+      "Rajasthan Royals": 1,
+      "Kings XI Punjab": 1
+    },
+    "St George's Park": {
+      "Delhi Daredevils": 1,
+      "Mumbai Indians": 2,
+      "Rajasthan Royals": 1,
+      "Kings XI Punjab": 1,
+      "Chennai Super Kings": 1
+    },
+    "Kingsmead": {
+      "Delhi Daredevils": 3,
+      "Kings XI Punjab": 2,
+      "Deccan Chargers": 2,
+      "Royal Challengers Bangalore": 3,
+      "Rajasthan Royals": 2,
+      "Kolkata Knight Riders": 1,
+      "Chennai Super Kings": 1
+    },
+    "SuperSport Park": {
+      "Delhi Daredevils": 2,
+      "Chennai Super Kings": 2,
+      "Deccan Chargers": 2,
+      "Rajasthan Royals": 1,
+      "Royal Challengers Bangalore": 2,
+      "Mumbai Indians": 1,
+      "Kolkata Knight Riders": 1
+    },
+    "Buffalo Park": {
+      "Chennai Super Kings": 1,
+      "Delhi Daredevils": 1
+    },
+    "New Wanderers Stadium": {
+      "Royal Challengers Bangalore": 3,
+      "Delhi Daredevils": 1,
+      "Deccan Chargers": 2,
+      "Kings XI Punjab": 1
+    },
+    "De Beers Diamond Oval": {
+      "Chennai Super Kings": 1,
+      "Deccan Chargers": 1
+    },
+    "OUTsurance Oval": {
+      "Delhi Daredevils": 1
+    },
+    "Brabourne Stadium": {
+      "Royal Challengers Bangalore": 1,
+      "Mumbai Indians": 5,
+      "Chennai Super Kings": 1,
+      "Rajasthan Royals": 2,
+      "Sunrisers Hyderabad": 1
+    },
+    "Sardar Patel Stadium, Motera": {
+      "Rajasthan Royals": 7,
+      "Sunrisers Hyderabad": 1,
+      "Mumbai Indians": 1,
+      "Kings XI Punjab": 1,
+      "Royal Challengers Bangalore": 1
+    },
+    "Barabati Stadium": {
+      "Deccan Chargers": 2,
+      "Kolkata Knight Riders": 3,
+      "Kings XI Punjab": 1
+    },
+    "Vidarbha Cricket Association Stadium, Jamtha": {
+      "Deccan Chargers": 2
+    },
+    "Himachal Pradesh Cricket Association Stadium": {
+      "Chennai Super Kings": 1,
+      "Kings XI Punjab": 5,
+      "Deccan Chargers": 1,
+      "Delhi Daredevils": 1
+    },
+    "Nehru Stadium": {
+      "Kochi Tuskers Kerala": 2,
+      "Deccan Chargers": 1,
+      "Delhi Daredevils": 1
+    },
+    "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium": {
+      "Mumbai Indians": 2,
+      "Rajasthan Royals": 1,
+      "Delhi Daredevils": 1,
+      "Sunrisers Hyderabad": 3,
+      "Kings XI Punjab": 1,
+      "Rising Pune Supergiants": 2
+    },
+    "Subrata Roy Sahara Stadium": {
+      "Pune Warriors": 3,
+      "Delhi Daredevils": 1,
+      "Deccan Chargers": 1,
+      "Mumbai Indians": 2,
+      "Rajasthan Royals": 1,
+      "Royal Challengers Bangalore": 2,
+      "Kolkata Knight Riders": 3,
+      "Kings XI Punjab": 1,
+      "Sunrisers Hyderabad": 1,
+      "Chennai Super Kings": 1
+    },
+    "Shaheed Veer Narayan Singh International Stadium": {
+      "Delhi Daredevils": 3,
+      "Sunrisers Hyderabad": 1,
+      "Royal Challengers Bangalore": 1
+    },
+    "JSCA International Stadium Complex": {
+      "Pune Warriors": 1,
+      "Chennai Super Kings": 3,
+      "Royal Challengers Bangalore": 1,
+      "Sunrisers Hyderabad": 1
+    },
+    "Sheikh Zayed Stadium": {
+      "Kings XI Punjab": 2,
+      "Rajasthan Royals": 3,
+      "Chennai Super Kings": 1
+    },
+    "Sharjah Cricket Stadium": {
+      "Kings XI Punjab": 2,
+      "Kolkata Knight Riders": 1,
+      "Delhi Daredevils": 1,
+      "Chennai Super Kings": 1
+    },
+    "Dubai International Cricket Stadium": {
+      "Delhi Daredevils": 1,
+      "Chennai Super Kings": 2,
+      "Sunrisers Hyderabad": 2,
+      "Kings XI Punjab": 1
+    },
+    "M. A. Chidambaram Stadium": {
+      "Chennai Super Kings": 5,
+      "Mumbai Indians": 2
+    },
+    "Feroz Shah Kotla Ground": {
+      "Delhi Capitals": 4,
+      "Sunrisers Hyderabad": 1,
+      "Mumbai Indians": 1
+    },
+    "M. Chinnaswamy Stadium": {
+      "Kolkata Knight Riders": 1,
+      "Delhi Capitals": 1,
+      "Royal Challengers Bangalore": 3,
+      "": 1
+    },
+    "Rajiv Gandhi Intl. Cricket Stadium": {
+      "Sunrisers Hyderabad": 4,
+      "Mumbai Indians": 2,
+      "Delhi Capitals": 1
+    },
+    "IS Bindra Stadium": {
+      "Kings XI Punjab": 4,
+      "Royal Challengers Bangalore": 1,
+      "Kolkata Knight Riders": 1
+    },
+    "ACA-VDCA Stadium": {
+      "Chennai Super Kings": 1
+    }
+  }
+}

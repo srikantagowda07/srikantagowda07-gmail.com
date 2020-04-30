@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="IPL visualization">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <link href="./styles.css" rel="stylesheet">
+  <title>
+    IPL visualization
+  </title>
+
+</head>
+<body>
+  <h1>IPL Dataset Visualization</h1>
+  <div class="button-holder">
+    <span class="label">Enter year: </span>
+    <input type="text" id="year-input"  />
+    <span class="error invisible">Enter Year Between: 2008 to 2019</span>
+    <button onclick="extraRunsConceded1()">Submit</button>
+  </div>
+
+
+
+  <div id="visualizeExtraRuns" class="chart-container" style="min-width: 310px; height: 500px;"></div>
+  <div id="matches-played-per-year" class="chart-container" style="min-width: 310px; height: 500px;"></div>
+  <div id="Extra_Runs" class="chart-container" style="min-width: 310px; height: 500px;"></div>
+  <div id="mostWins" class="a" style="width: 1130px; height: 500px; margin: 0 auto; margin-top: 50px"></div>
+  <div id="economicalBowler" class="chart-container" style="min-width: 310px; height: 500px;"></div>
+  <div id="Winners" class="chart-container" style="min-width: 310px; height: 600px;"></div>
+  <div id="mostManOfTheMatches" class="chart-container" style="min-width: 310px; height: 500px;"></div>
+  <div id="winningTeamPerVenue" class="a" style="width: 1130px; height: 1000px; margin: 0 auto; margin-top: 50px"></div>
+
+  <br> <br>
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+
+  <script src="./app.js"> </script>
+
+</body>
+
+

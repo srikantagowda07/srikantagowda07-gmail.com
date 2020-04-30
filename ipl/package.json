@@ -1,17 +1,15 @@
 {
-  "name": "ipl_project",
+  "name": "public",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
-    "ipl": "node index.js",
-    "start": "http-server"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csvtojson": "^2.0.10",
-    "http-server": "^0.12.1"
-  }
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
 }
